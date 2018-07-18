@@ -1,5 +1,4 @@
 /**
- * Copyright (c) 2018 KPMG Technology Solutions
  *
  * @author chathurabuddi
  * @version 1.0.0
